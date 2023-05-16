@@ -27,20 +27,15 @@ img:hover {
 
 ul{
   list-style-type: none;
-  text-align: left;
   position: fixed;
 }
 
-li{float: left;
-}
-
 li a{
-  padding: 20px;
   color: #01394E;
   text-decoration: none;
 }
 
 a:hover {
   background-color: #D8F3FD;
-  padding: 14px 25px;
+  padding: 1px 20px;
 }
