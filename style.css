@@ -27,7 +27,7 @@ img:hover {
 
 ul{
   list-style-type: none;
-  text-align: center;
+  text-align: left;
   position: fixed;
 }
 
@@ -35,7 +35,7 @@ li{float: left;
 }
 
 li a{
-  padding: 200px;
+  padding: 20px;
   color: #01394E;
   text-decoration: none;
 }
