@@ -1,0 +1,11 @@
+body {
+  background-color: #BEEBFC;
+} 
+
+h1{
+  color: #01394E;
+  font-family: "Sofia", serif;
+  text-decoration-line: underline;
+  font-size: 240%;
+  text-decoration-style: single;
+}
