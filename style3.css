@@ -1,0 +1,42 @@
+body {
+  background-color: #BEEBFC;
+} 
+
+h1{
+  color: #01394E;
+  font-family: "Sofia", serif;
+  text-decoration-line: underline;
+  font-size: 240%;
+  text-decoration-style: single;
+}
+
+p{
+  font-size: 130%
+}
+
+img {
+  height: 290px;
+  width: 345px;
+}
+img {
+  border-radius: 9%;
+}
+img:hover {
+  border: groove 13px #79B6CC;
+}
+
+ul{
+  list-style-type: none;
+  position: fixed;
+}
+
+li a{
+  color: #01394E;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: #D8F3FD;
+  padding: 1px 20px;
+}
+
